@@ -13,7 +13,7 @@ https://diogowebstore.firebaseapp.com/
 ### daraujo.augusto@gmail.com or [LinkedIn](https://linkedin.com/in/daraujo-augusto)
 
 
-# If you would like to download this repository, run locally and make your own changes, please consider the information below.
+## If you would like to download this repository, run locally and make your own changes, please consider the information below.
 
 # WebStoreAngular
 
